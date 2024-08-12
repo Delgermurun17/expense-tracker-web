@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <main>
-      <button className="login-btn text-white text-xl font-normal"><Link href={"/login"}>Login</Link></button>
+      <Link href={"/login"}><button className="login-btn text-white text-xl font-normal">Login</button></Link>
     </main>
   );
 }

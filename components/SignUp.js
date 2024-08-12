@@ -31,7 +31,7 @@ export function SignUp(){
                 <input className="input" type="password" placeholder="Re-password" />
               </div>
               <div>
-                <button className="login-btn text-white text-xl font-normal"><Link href={"/login/sign_up/currency"}> Sign up</Link></button>
+              <Link href={"/login/sign_up/currency"}> <button className="login-btn text-white text-xl font-normal"> Sign up</button></Link>
               </div>
             </div>
             <div className="flex text-base font-normal justify-center">

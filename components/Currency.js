@@ -42,7 +42,7 @@ export function Currency(){
                     <div className="font-normal text-xs text-slate-600 w-96 mx-auto">Your base currency should be the one you use most often. All transaction in other currencies will be calculated based on this one </div>
                 </div>
                 <div>                
-                    <button className="login-btn text-white text-xl font-normal"><Link href={"/login/sign_up/balance"}>Confirm</Link></button>
+                <Link href={"/login/sign_up/balance"}><button className="login-btn text-white text-xl font-normal">Confirm</button></Link>
                 </div>
             </div>
 
