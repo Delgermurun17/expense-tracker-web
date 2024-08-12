@@ -25,7 +25,7 @@ export function Welcomelogin() {
               <input className="input" type="password" placeholder="Password" />
             </div>
             <div>
-            <Link href={"/"}><button className="login-btn text-white text-xl font-normal">Log in</button></Link>
+            <Link href={"/"}><button className="login-btn text-white text-xl font-normal bg-[#0166ff]">Log in</button></Link>
             </div>
           </div>
           <div className="flex text-base font-normal justify-center">
