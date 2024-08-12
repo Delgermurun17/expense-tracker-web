@@ -40,7 +40,7 @@ export function Balance(){
                     <div className="font-normal text-xs text-slate-600 w-96 mx-auto">How much cash do you have in your wallet? </div>
                 </div>
                 <div>                
-                <Link href={"/login/sign_up/finish"}><button className="login-btn text-white text-xl font-normal bg-blue-600"> Confirm</button></Link>
+                <Link href={"/login/sign_up/finish"}><button className="login-btn  text-xl font-normal bg-blue-600"> Confirm</button></Link>
                 </div>
             </div>
 

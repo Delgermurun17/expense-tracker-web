@@ -18,6 +18,7 @@
   gap: 4px;
   border-radius: 20px;
   opacity: 0px;
+  background-color: #0166ff !important;
 }
 
 .select {
