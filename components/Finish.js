@@ -33,7 +33,7 @@ export function Finish(){
                     <div className="font-normal text-base text-slate-600 w-96 mx-auto text-center">Your very first account has been created. Now continue to dashboard and start tracking</div>
                 </div>
                 <div>                
-                <Link href={"/"}><button className="login-btn text-white text-xl font-normal bg-[#0166ff]">Go to Dashboard</button></Link>
+                <Link href={"/"}><button className="login-btn text-white text-xl font-normal bg-blue-600">Go to Dashboard</button></Link>
                 </div>
             </div>
 
